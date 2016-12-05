@@ -1,0 +1,1437 @@
+{
+  "msg": "fetch DB successfully.",
+  "data": [
+    {
+      "department": "Mobility",
+      "reports": [
+        {
+          "date": "Oct 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "57.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "58.75"
+            },
+            {
+              "title": "Total HC",
+              "value": "56"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "52"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "52"
+            },
+            {
+              "title": "UT%",
+              "value": "52"
+            }
+          ]
+        },
+        {
+          "date": "Nov 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "8.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "6.25"
+            },
+            {
+              "title": "Total HC",
+              "value": "9"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "13"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "13"
+            },
+            {
+              "title": "UT%",
+              "value": "13"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "65.8"
+            },
+            {
+              "title": "Bench HC",
+              "value": "65"
+            },
+            {
+              "title": "Total HC",
+              "value": "65"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "65"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "65"
+            },
+            {
+              "title": "UT%",
+              "value": "65"
+            }
+          ]
+        },
+        {
+          "date": "Jan 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Feb 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Mar 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "87.23%"
+            },
+            {
+              "title": "Bench HC",
+              "value": "90.38%"
+            },
+            {
+              "title": "Total HC",
+              "value": "86.15%"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "UT%",
+              "value": "80.00%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "department": "User Experience",
+      "reports": [
+        {
+          "date": "Oct 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "67.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "58.75"
+            },
+            {
+              "title": "Total HC",
+              "value": "56"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "52"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "52"
+            },
+            {
+              "title": "UT%",
+              "value": "52"
+            }
+          ]
+        },
+        {
+          "date": "Nov 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "8.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "6.25"
+            },
+            {
+              "title": "Total HC",
+              "value": "9"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "13"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "13"
+            },
+            {
+              "title": "UT%",
+              "value": "13"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "65.8"
+            },
+            {
+              "title": "Bench HC",
+              "value": "65"
+            },
+            {
+              "title": "Total HC",
+              "value": "65"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "65"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "65"
+            },
+            {
+              "title": "UT%",
+              "value": "65"
+            }
+          ]
+        },
+        {
+          "date": "Jan 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Feb 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Mar 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "87.23%"
+            },
+            {
+              "title": "Bench HC",
+              "value": "90.38%"
+            },
+            {
+              "title": "Total HC",
+              "value": "86.15%"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "UT%",
+              "value": "80.00%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "department": "SOA",
+      "reports": [
+        {
+          "date": "Oct 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "77.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "58.75"
+            },
+            {
+              "title": "Total HC",
+              "value": "56"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "52"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "52"
+            },
+            {
+              "title": "UT%",
+              "value": "52"
+            }
+          ]
+        },
+        {
+          "date": "Nov 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "8.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "6.25"
+            },
+            {
+              "title": "Total HC",
+              "value": "9"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "13"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "13"
+            },
+            {
+              "title": "UT%",
+              "value": "13"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "65.8"
+            },
+            {
+              "title": "Bench HC",
+              "value": "65"
+            },
+            {
+              "title": "Total HC",
+              "value": "65"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "65"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "65"
+            },
+            {
+              "title": "UT%",
+              "value": "65"
+            }
+          ]
+        },
+        {
+          "date": "Jan 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Feb 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Mar 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "87.23%"
+            },
+            {
+              "title": "Bench HC",
+              "value": "90.38%"
+            },
+            {
+              "title": "Total HC",
+              "value": "86.15%"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "UT%",
+              "value": "80.00%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "department": "Enterprise Data Management",
+      "reports": [
+        {
+          "date": "Oct 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "87.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "58.75"
+            },
+            {
+              "title": "Total HC",
+              "value": "56"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "52"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "52"
+            },
+            {
+              "title": "UT%",
+              "value": "52"
+            }
+          ]
+        },
+        {
+          "date": "Nov 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "8.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "6.25"
+            },
+            {
+              "title": "Total HC",
+              "value": "9"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "13"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "13"
+            },
+            {
+              "title": "UT%",
+              "value": "13"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "65.8"
+            },
+            {
+              "title": "Bench HC",
+              "value": "65"
+            },
+            {
+              "title": "Total HC",
+              "value": "65"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "65"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "65"
+            },
+            {
+              "title": "UT%",
+              "value": "65"
+            }
+          ]
+        },
+        {
+          "date": "Jan 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Feb 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Mar 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "87.23%"
+            },
+            {
+              "title": "Bench HC",
+              "value": "90.38%"
+            },
+            {
+              "title": "Total HC",
+              "value": "86.15%"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "UT%",
+              "value": "80.00%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "department": "Business Intelligence",
+      "reports": [
+        {
+          "date": "Oct 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "97.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "58.75"
+            },
+            {
+              "title": "Total HC",
+              "value": "56"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "52"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "52"
+            },
+            {
+              "title": "UT%",
+              "value": "52"
+            }
+          ]
+        },
+        {
+          "date": "Nov 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "8.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "6.25"
+            },
+            {
+              "title": "Total HC",
+              "value": "9"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "13"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "13"
+            },
+            {
+              "title": "UT%",
+              "value": "13"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "65.8"
+            },
+            {
+              "title": "Bench HC",
+              "value": "65"
+            },
+            {
+              "title": "Total HC",
+              "value": "65"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "65"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "65"
+            },
+            {
+              "title": "UT%",
+              "value": "65"
+            }
+          ]
+        },
+        {
+          "date": "Jan 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Feb 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Mar 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "87.23%"
+            },
+            {
+              "title": "Bench HC",
+              "value": "90.38%"
+            },
+            {
+              "title": "Total HC",
+              "value": "86.15%"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "UT%",
+              "value": "80.00%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "department": "Advance Analytic Technology",
+      "reports": [
+        {
+          "date": "Oct 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "57.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "58.75"
+            },
+            {
+              "title": "Total HC",
+              "value": "56"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "52"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "52"
+            },
+            {
+              "title": "UT%",
+              "value": "52"
+            }
+          ]
+        },
+        {
+          "date": "Nov 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "8.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "6.25"
+            },
+            {
+              "title": "Total HC",
+              "value": "9"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "13"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "13"
+            },
+            {
+              "title": "UT%",
+              "value": "13"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "65.8"
+            },
+            {
+              "title": "Bench HC",
+              "value": "65"
+            },
+            {
+              "title": "Total HC",
+              "value": "65"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "65"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "65"
+            },
+            {
+              "title": "UT%",
+              "value": "65"
+            }
+          ]
+        },
+        {
+          "date": "Jan 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Feb 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Mar 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "87.23%"
+            },
+            {
+              "title": "Bench HC",
+              "value": "90.38%"
+            },
+            {
+              "title": "Total HC",
+              "value": "86.15%"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "UT%",
+              "value": "80.00%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "department": "Salesforce",
+      "reports": [
+        {
+          "date": "Oct 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "57.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "58.75"
+            },
+            {
+              "title": "Total HC",
+              "value": "56"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "52"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "52"
+            },
+            {
+              "title": "UT%",
+              "value": "52"
+            }
+          ]
+        },
+        {
+          "date": "Nov 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "8.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "6.25"
+            },
+            {
+              "title": "Total HC",
+              "value": "9"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "13"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "13"
+            },
+            {
+              "title": "UT%",
+              "value": "13"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "65.8"
+            },
+            {
+              "title": "Bench HC",
+              "value": "65"
+            },
+            {
+              "title": "Total HC",
+              "value": "65"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "65"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "65"
+            },
+            {
+              "title": "UT%",
+              "value": "65"
+            }
+          ]
+        },
+        {
+          "date": "Jan 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Feb 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Mar 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "87.23%"
+            },
+            {
+              "title": "Bench HC",
+              "value": "90.38%"
+            },
+            {
+              "title": "Total HC",
+              "value": "86.15%"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "UT%",
+              "value": "80.00%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "department": "Overall",
+      "reports": [
+        {
+          "date": "Oct 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "57.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "58.75"
+            },
+            {
+              "title": "Total HC",
+              "value": "56"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "52"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "52"
+            },
+            {
+              "title": "UT%",
+              "value": "52"
+            }
+          ]
+        },
+        {
+          "date": "Nov 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "8.4"
+            },
+            {
+              "title": "Bench HC",
+              "value": "6.25"
+            },
+            {
+              "title": "Total HC",
+              "value": "9"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "13"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "13"
+            },
+            {
+              "title": "UT%",
+              "value": "13"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2016",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "65.8"
+            },
+            {
+              "title": "Bench HC",
+              "value": "65"
+            },
+            {
+              "title": "Total HC",
+              "value": "65"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "65"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "65"
+            },
+            {
+              "title": "UT%",
+              "value": "65"
+            }
+          ]
+        },
+        {
+          "date": "Jan 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Feb 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "0"
+            },
+            {
+              "title": "Bench HC",
+              "value": "0"
+            },
+            {
+              "title": "Total HC",
+              "value": "0"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "0"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "0"
+            },
+            {
+              "title": "UT%",
+              "value": "0"
+            }
+          ]
+        },
+        {
+          "date": "Mar 2017",
+          "values": [
+            {
+              "title": "Staffed HC",
+              "value": "87.23%"
+            },
+            {
+              "title": "Bench HC",
+              "value": "90.38%"
+            },
+            {
+              "title": "Total HC",
+              "value": "86.15%"
+            },
+            {
+              "title": "Pipeline HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "Dimission HC",
+              "value": "80.00%"
+            },
+            {
+              "title": "UT%",
+              "value": "80.00%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
