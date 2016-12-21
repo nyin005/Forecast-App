@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11201" systemVersion="15G1004" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CustomTextField" customModule="LarsonApp" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="300" height="70"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ZD1-hJ-oaM">
+                    <color key="backgroundColor" red="0.81568627450980391" green="0.81960784313725488" blue="0.82352941176470584" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="1" id="FDN-ic-r02"/>
+                    </constraints>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EmT-di-vxm">
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="rDa-7A-Yqm"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                    <color key="textColor" red="0.61176470588235299" green="0.61176470588235299" blue="0.61176470588235299" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Fh2-4i-blx">
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="neZ-Z1-0k9"/>
+                    </constraints>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="0.87" colorSpace="custom" customColorSpace="sRGB"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="13"/>
+                    <textInputTraits key="textInputTraits"/>
+                </textField>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6lN-Tk-F4Q">
+                    <constraints>
+                        <constraint firstAttribute="height" constant="16" id="hPl-u3-qSI"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="12"/>
+                    <color key="textColor" red="0.8980392157" green="0.30196078430000001" blue="0.25882352939999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="ZD1-hJ-oaM" secondAttribute="trailing" id="1Jq-eu-Suc"/>
+                <constraint firstAttribute="trailing" secondItem="6lN-Tk-F4Q" secondAttribute="trailing" constant="85" id="55I-dv-PpP"/>
+                <constraint firstItem="Fh2-4i-blx" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="9Dq-GR-c9h"/>
+                <constraint firstItem="6lN-Tk-F4Q" firstAttribute="top" secondItem="ZD1-hJ-oaM" secondAttribute="top" id="Oky-lt-M1h"/>
+                <constraint firstAttribute="trailing" secondItem="EmT-di-vxm" secondAttribute="trailing" id="Pu5-EG-OhK"/>
+                <constraint firstItem="ZD1-hJ-oaM" firstAttribute="top" secondItem="EmT-di-vxm" secondAttribute="bottom" id="fGm-kJ-CZr"/>
+                <constraint firstItem="ZD1-hJ-oaM" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="fOp-JS-FWP"/>
+                <constraint firstItem="6lN-Tk-F4Q" firstAttribute="leading" secondItem="ZD1-hJ-oaM" secondAttribute="leading" id="iKq-Xu-RtQ"/>
+                <constraint firstAttribute="trailing" secondItem="Fh2-4i-blx" secondAttribute="trailing" id="ikn-n8-CTF"/>
+                <constraint firstItem="ZD1-hJ-oaM" firstAttribute="top" secondItem="Fh2-4i-blx" secondAttribute="bottom" id="q6D-Gr-Dae"/>
+                <constraint firstAttribute="bottom" secondItem="ZD1-hJ-oaM" secondAttribute="bottom" constant="15" id="rbw-ZS-6gD"/>
+                <constraint firstItem="EmT-di-vxm" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="tAQ-Ap-kfs"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="bottomLineInterval" destination="fGm-kJ-CZr" id="i07-HO-BqE"/>
+                <outlet property="bottomLineView" destination="ZD1-hJ-oaM" id="mPS-ag-Js6"/>
+                <outlet property="errorLbl" destination="6lN-Tk-F4Q" id="Moq-EY-99t"/>
+                <outlet property="fieldTF" destination="Fh2-4i-blx" id="Hh0-Zw-nUA"/>
+                <outlet property="titleLbl" destination="EmT-di-vxm" id="L2V-hD-szC"/>
+            </connections>
+            <point key="canvasLocation" x="171" y="319"/>
+        </view>
+    </objects>
+</document>
